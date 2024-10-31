@@ -52,15 +52,18 @@ print("Terjemahan:", result['translation_text'])
 ```
 
 🔍 Analisis & Manfaat
-Mudah Digunakan: Pipeline dari Hugging Face memudahkan pemanggilan model kompleks tanpa konfigurasi tambahan.
-Kustomisasi Fleksibel: Parameter dapat disesuaikan untuk hasil yang lebih akurat atau sesuai kebutuhan.
-Penerapan Nyata: Cocok untuk berbagai industri, seperti e-commerce, media sosial, dan penerjemahan dokumen.
+
+Mudah Digunakan:         Pipeline dari Hugging Face memudahkan pemanggilan model kompleks tanpa konfigurasi tambahan.
+Kustomisasi Fleksibel:   Parameter dapat disesuaikan untuk hasil yang lebih akurat atau sesuai kebutuhan.
+Penerapan Nyata:         Cocok untuk berbagai industri, seperti e-commerce, media sosial, dan penerjemahan dokumen.
 
 📑 Referensi
+
 Hugging Face Transformers Documentation
 Model Hub for Pretrained Models
 
 🚀 Kesimpulan
+
 Proyek ini memanfaatkan model-model canggih dari Hugging Face untuk berbagai keperluan NLP. Dengan kemudahan penggunaan, fleksibilitas, dan hasil berkualitas tinggi, proyek ini dapat menjadi dasar bagi pengembangan aplikasi pengolahan bahasa alami yang berdaya guna tinggi.
 
 Selamat Belajar dan Berkreasi dengan NLP! 🎉
